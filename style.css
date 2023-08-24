@@ -1,0 +1,95 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@300;700;900&display=swap"); 
+
+*{
+    text-align: center;
+}
+
+body {
+    font-family: "Exo 2", sans-serif;
+    background: rgb(63, 161, 251);
+    background: linear-gradient(
+      142deg,
+      rgba(63, 161, 251, 1) 0%,
+      rgba(252, 70, 168, 1) 100%
+    );
+  }
+  
+
+.Linux {
+  order: 2;
+  color: #fde9ff;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 1000%;
+  line-height: 0.75em;
+  text-shadow: 3px 1px 1px #4af7ff, 2px 2px 1px #165bfb, 4px 2px 1px #4af7ff,
+    3px 3px 1px #165bfb, 5px 3px 1px #4af7ff, 4px 4px 1px #165bfb,
+    6px 4px 1px #4af7ff, 5px 5px 1px #165bfb, 7px 5px 1px #4af7ff,
+    6px 6px 1px #165bfb, 8px 6px 1px #4af7ff, 7px 7px 1px #165bfb,
+    9px 7px 1px #4af7ff;
+
+}
+
+h2{
+    order: 1;
+    display: block;
+    color: #fff;
+    font-size: 350%;
+    margin-bottom: 1rem;
+    padding-right: 2rem;
+    text-shadow: 
+              
+                2px 3px 0px rgba(252, 70, 167, 0.685),                  
+                2px 3px 0px rgba(252, 70, 167, 0.685);
+}
+
+#tux{
+  width: 20%;
+}
+
+p{
+  color: #fff;
+  font-size: 130%;
+  text-shadow: 
+              
+  1px 1px 0px rgba(63, 161, 251, 1),                  
+  1px 1px 0px rgba(63, 161, 251, 1);
+}
+
+p{
+  color: #fff;
+  font-size: 130%;
+  text-shadow:            
+    1px 1px 0px rgba(63, 161, 251, 1),                  
+    1px 1px 0px rgba(63, 161, 251, 1);
+}
+
+ul{
+  color: #fff;
+  font-size: 130%;
+  list-style-position: inside;
+  text-shadow:             
+    1px 1px 0px rgba(63, 161, 251, 1),                  
+    1px 1px 0px rgba(63, 161, 251, 1);
+}
+
+li{
+  text-align: justify;
+  position: relative;
+  left: 170px;
+}
+
+a{
+  text-shadow: none;
+}
+
+#fim{
+  text-align: justify;
+  position: relative;
+  left: 170px;
+}
+
+#fin{
+  width: 10%;
+}
